@@ -48,5 +48,5 @@ Passionate about **building scalable backend systems** and **integrating AI into
 ---
 
 📫 **Let's Connect:**  
-🔗 [LinkedIn]([https://www.linkedin.com/in/brahmdave](https://www.linkedin.com/in/brahm-dave-747ba0222/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/brahmdave](https://www.linkedin.com/in/brahm-dave-747ba0222/)  
 📧 **Email:**brahmdave5@gmail.com
