@@ -26,8 +26,6 @@ Passionate about **building scalable backend systems** and **integrating AI into
 ### 🔹 Databases  
 - **SQL, MongoDB**  
 
-
-
 ---
 
 ## 🔍 What I'm Working On  
@@ -42,11 +40,5 @@ Passionate about **building scalable backend systems** and **integrating AI into
 
 - 🏆 **GATE 2024 AIR 764** in Data Science & AI  
 - 📰 **Featured in Times of India** for wildlife conservation research  
-- 💻 **Organized a hackathon** with **100+ participants**  
 - 📚 **Distributed 150+ education kits** in rural areas to support learning initiatives  
 
----
-
-📫 **Let's Connect:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/brahmdave](https://www.linkedin.com/in/brahm-dave-747ba0222/)  
-📧 **Email:**brahmdave5@gmail.com
